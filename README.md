@@ -1,24 +1,20 @@
-# README
+# Travail du Dimanche 😎
+On travaille les bases et les notions apprises durant les derniers jours. Travail à plusieurs généralement. Aujourd'hui j'étais avec Alexandre CASADEI
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installation ⚙️
 
-Things you may want to cover:
+Download le zip, ouvrir le file avec VisualStudio Code. 
 
-* Ruby version
+```bash
+Bundle Install
+rails s
+```
+Got to Local hots 3000
 
-* System dependencies
+## Usage - Pour quoi faire ? 📚
 
-* Configuration
+Tester, bidouiller, échanger etc etc...
 
-* Database creation
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Membres 🖐
+[Alexandre](https://choosealicense.com/licenses/mit/) et [Pierre](https://choosealicense.com/licenses/mit/)
